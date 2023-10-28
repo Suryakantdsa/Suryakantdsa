@@ -9,14 +9,13 @@
 
 - 🔭 I’m currently working on  **Fullstack web development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-suryakant.netlify.app/](https://my-portfolio-suryakant.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-suryakant.netlify.app/"> Here is my Portfolio</a>
 
 - 💬 Ask me about   **HTML ,CSS ,JS , ReactJs ,REDUX toolkit ,Tailwind CSS ,NodeJs , MongoDB ,ExpressJS**
 
 - 📫 How to reach me **dassuryakantadas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16kReo9aRx-boiSgabAFQGWI6vtdC9_CE/view?usp=drivesdk](https://drive.google.com/file/d/16kReo9aRx-boiSgabAFQGWI6vtdC9_CE/view?usp=drivesdk)
-
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/18U5wIP2BW3AJwJl2iZ8C-TkhxfEIHfs_/view">Here is my resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
