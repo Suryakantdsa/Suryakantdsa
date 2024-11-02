@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/suryakant-das-7b657814b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryakant-das-7b657814b" height="30" width="40" /></a>
 <a href="https://instagram.com/_imsurya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_imsurya_" height="30" width="40" /></a>
-  <a href="https://twitter.com/_1996surya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_imsurya_" height="30" width="40" /></a>
+  <a href="https://twitter.com/_1996surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_imsurya_" height="30" width="40" /></a>
 
 </p>
 
