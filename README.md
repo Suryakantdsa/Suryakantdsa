@@ -1,33 +1,58 @@
-<h1 align="center">Hi 👋, I'm Suryakant das</h1>
-<h3 align="center">A passionate JavaScript Developer Building Exciting Experiences with React from India.</h3>
+<h1 align="center">Hi 👋, I'm Suryakant Das</h1>
+<h3 align="center">🚀 Full Stack Developer | Passionate about building intuitive and powerful web experiences</h3>
 
-
-<img width="400" align="right" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="animate logo">
-
-<p></p>
-<p></p>
-
-- 🔭 I’m currently working on  **Fullstack web development**
-
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-new-k1zu-suryakantdsas-projects.vercel.app/"> Here is my Portfolio</a>
-
-- 💬 Ask me about   **HTML ,CSS ,JS , ReactJs ,REDUX toolkit ,Tailwind CSS ,NodeJs , MongoDB ,ExpressJS**
-
-- 📫 How to reach me **dassuryakantadas@gmail.com**
-
-- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1d7IljN3Pe9tGm9ek0oSx9opM59YFW_9Q/view?pli=1">Here is my resume</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suryakant-das-7b657814b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryakant-das-7b657814b" height="30" width="40" /></a>
-<a href="https://instagram.com/_imsurya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_imsurya_" height="30" width="40" /></a>
-  <a href="https://twitter.com/_1996surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_imsurya_" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://portfolio-new-k1zu-suryakantdsas-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-black?style=flat&logo=vercel" />
+  </a>
+  <a href="https://linkedin.com/in/suryakant-das-7b657814b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/_1996surya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" />
+  </a>
+  <a href="https://drive.google.com/file/d/1d7IljN3Pe9tGm9ek0oSx9opM59YFW_9Q/view?pli=1" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-green?style=flat&logo=google-drive" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakantdsa&show_icons=true&locale=en&layout=compact" alt="suryakantdsa" /></p>
+### 💡 About Me
+- 🔭 Currently working on **Postman-TUI** (terminal Postman clone using Bubble Tea & Go)
+- 💬 Ask me about: `React`,`Next.js`, `Tailwind CSS`, `Node.js`, `MongoDB`, `PostgreSQL`, `zustand` , `Redux Toolkit` , 
+- 📫 Reach me at: **dassuryakantadas@gmail.com**
+- 🛠️ Always learning: `AWS`, `Go`, `Docker`
+- 🏆 Featured in [Charm in the Wild](https://github.com/charm-and-friends/charm-in-the-wild)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakantdsa&show_icons=true&locale=en" alt="suryakantdsa" /></p>
+---
+
+### 🧰 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryakantdsa&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakantdsa&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🔗 Let’s Connect
+<p align="center">
+  <a href="https://linkedin.com/in/suryakant-das-7b657814b" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://instagram.com/_imsurya_" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a href="https://twitter.com/_1996surya" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+</p>
